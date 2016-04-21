@@ -1,0 +1,12 @@
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\bin\Debug\ExamFinal.exe.config
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\obj\Debug\ExamFinal.csprojResolveAssemblyReference.cache
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\obj\Debug\ExamFinal.Properties.Resources.resources
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\obj\Debug\ExamFinal.csproj.GenerateResource.Cache
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\bin\Debug\ExamFinal.exe
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\bin\Debug\ExamFinal.pdb
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\obj\Debug\ExamFinal.exe
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\obj\Debug\ExamFinal.pdb
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\obj\Debug\ExamFinal.Estudiantes.resources
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\obj\Debug\ExamFinal.Form1.resources
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\obj\Debug\ExamFinal.Profesores.resources
+g:\usuarios\oscar\documentos\visual studio 2015\Projects\ExamFinal\ExamFinal\obj\Debug\ExamFinal.Materias.resources
